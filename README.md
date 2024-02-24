@@ -1,1 +1,40 @@
-# CustomerInsights
+# Licença Personalizada de Uso Exclusivo
+
+## 1. Termos
+
+Por este meio, a autora Sabrina Lameiras Germano (doravante referido como "Proprietário") reserva todos os direitos sobre o conteúdo, código-fonte, documentação e todos os outros materiais contidos no repositório (doravante referido como "Obra") hospedado no GitHub ou qualquer outra plataforma de hospedagem de código.
+
+## 2. Restrições
+
+A menos que expressamente autorizado por escrito pelo Proprietário, são estritamente proibidos:
+
+- A cópia, distribuição, exibição ou divulgação da Obra.
+- O uso da Obra para qualquer propósito comercial ou não comercial.
+- A modificação, derivação, engenharia reversa, descompilação, ou qualquer outra forma de alteração ou tentativa de acesso ao código-fonte da Obra.
+- O download ou qualquer forma de transferência de dados da Obra, exceto quando diretamente acessível para visualização online como permitido pelas funcionalidades padrão da plataforma de hospedagem.
+
+## 3. Direitos Autorais e Propriedade
+
+A Obra é protegida pelas leis de direitos autorais aplicáveis e tratados internacionais, bem como por outras leis e tratados de propriedade intelectual. O Proprietário detém e mantém todos os direitos de propriedade, incluindo direitos autorais, na e para a Obra.
+
+## 4. Isenção de Garantias
+
+A Obra é fornecida "como está", sem garantia de qualquer tipo, expressa ou implícita, incluindo, mas não se limitando a, garantias de comercialização, adequação a um propósito específico e não violação.
+
+## 5. Limitação de Responsabilidade
+
+Em nenhum caso, o Proprietário será responsável por quaisquer danos diretos, indiretos, incidentais, especiais, exemplares ou consequenciais (incluindo, mas não se limitando a, aquisição de bens ou serviços substitutos; perda de uso, dados ou lucros; ou interrupção de negócios) causados e em qualquer teoria de responsabilidade, seja em contrato, responsabilidade estrita ou delito (incluindo negligência ou de outra forma) decorrente de qualquer forma do uso da Obra,  mesmo que avisado da possibilidade de tais danos.
+
+## 6. Jurisdição e Lei Aplicável
+
+Esta licença será governada e interpretada de acordo com as leis do país de residência do Proprietário, sem considerar conflitos de disposições legais.
+
+## 7. Contato
+
+Para solicitar permissões além do escopo desta licença, entre em contato com o Proprietário através de e-mail sabrinalameiras@icloud.com.
+
+---
+
+Proprietário: Sabrina Lameiras Germano
+Ano: 2024
+Localização: Brasil
